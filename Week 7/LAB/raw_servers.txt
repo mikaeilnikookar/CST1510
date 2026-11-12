@@ -4,4 +4,3 @@ SRV-02,USED=120,TOTAL=100
 Web-01 ,  Used=93 , Total = 100
   DB-02,used=250 , total=500
 BACKUP-03 , USED = 512 , total=500
-srv-04,used=unknown,total=100
